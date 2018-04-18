@@ -1,0 +1,11 @@
+digraph Tree {
+  A->B;
+  B->C;
+  A->C;
+  A->D;
+  D->E;
+  E->F;
+  D->G;
+  G->H;
+  G->I;
+}
