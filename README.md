@@ -12,14 +12,14 @@
 Далее выполнить:
 `python3 main.py <path-to-dot-file>`
 
-`
+```
     real    0m0.091s
     user    0m0.076s
     sys 0m0.000s
-`
+```
 
-`
+```
     real    0m0.815s
     user    0m0.788s
     sys 0m0.248s
-`
+```
