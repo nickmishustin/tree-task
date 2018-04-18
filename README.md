@@ -10,14 +10,15 @@
 `git clone https://github.com/nickmishustin/tree-task.git`
 
 Далее, для первого решения:
+
     1. В корневом каталоге выполнить `python3 main.py <path-to-dot-file>`
 
 Для второго:
-    1.перейти в каталог withNetX и установить необхоимые зависимости: 
+
+1.перейти в каталог withNetX и установить необхоимые зависимости: 
 `pip3 install -r requrements.txt`
 
-    2. Далее выполнить:
-`python3 main.py <path-to-dot-file>`
+2. Далее выполнить: `python3 main.py <path-to-dot-file>`
 
 Ниже приведены резульаты работы команды `time` для 1 и 2 решений, соответственно. 
 
